@@ -1,0 +1,1 @@
+For run this project you need to create a new mongoose auth
